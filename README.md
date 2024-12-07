@@ -31,3 +31,4 @@ This repository serves as a space to document my progress and showcase the proje
 Feel free to explore and give feedback!  
 
 https://roadmap.sh/projects/basic-html-website
+https://roadmap.sh/projects/single-page-cv
