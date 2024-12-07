@@ -7,7 +7,7 @@
 
 1. **Download or clone** this repository to your local machine:  
     ```bash
-    git clone https://github.com/molmotor-learns/SINGLE-PAGE-CV
+    git clone https://github.com/molmotor-learnz/roadmap.sh-solutions/tree/main/Single-Page-CV
     ```  
 
 2. **Open the project folder.**  
