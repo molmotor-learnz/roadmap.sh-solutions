@@ -14,6 +14,16 @@ This repository is inspired by the [Frontend Developer Roadmap](https://roadmap.
 
 ---
 
+## Projects  
+
+Here are some of the projects I’ve worked on or am currently working on:  
+- [Basic HTML Website](https://github.com/molmotor-learnz/roadmap.sh-solutions/tree/main/Basic-HTML-Website)  
+- [Single Page CV](https://github.com/molmotor-learnz/roadmap.sh-solutions/tree/main/Single-Page-CV)  
+
+More projects will be added as I continue learning and building!  
+
+---
+
 ## Why This Repository?  
 
 This repository serves as a space to document my progress and showcase the projects I've completed while learning frontend development.  
