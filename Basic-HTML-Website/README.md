@@ -25,7 +25,7 @@ The website features a **navigation bar** present on all pages, allowing seamles
 
 1. **Download or clone** this repository to your local machine:  
     ```bash
-    git clone https://github.com/molmotor-learnz/Basic-HTML-Website
+    git clone https://github.com/molmotor-learnz/roadmap.sh-solutions/tree/main/Basic-HTML-Website
     ```  
 
 2. **Open the project folder.**
