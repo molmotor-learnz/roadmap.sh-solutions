@@ -1,4 +1,10 @@
 .navb {
     font-size: 30px;
-    
+    text-align: ;
+    position: sticky;
+    white-space: nowrap;
+    word-spacing: ;
+}
+.name{
+    margin-right: 100px;
 }
