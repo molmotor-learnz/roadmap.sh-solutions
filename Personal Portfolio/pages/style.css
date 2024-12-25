@@ -7,7 +7,7 @@
 nav{
     background: #1b1b1b;
     width: 100%;
-    padding: 10px 0;
+    padding: 
     position: fixed;
 }
 
@@ -48,4 +48,22 @@ nav .navb {
     background: #fff;
     color: #000;
 
+}
+.title {
+    text-align: center;
+    padding: 50px;
+    font-family: serif;
+    font-size: 30px;
+}
+.table {
+    margin: 20px;
+}
+.projects@table {
+    
+}
+.workexp {
+    text-align: center;
+}
+.education {
+    text-align: right;
 }
